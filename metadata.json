@@ -1,0 +1,6 @@
+{
+  "name": "律动音乐",
+  "description": "离线本地音乐播放器，支持本地选曲与文件夹导入、0.5x-3.0x倍速播放、定时关闭与后台媒体控制。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
